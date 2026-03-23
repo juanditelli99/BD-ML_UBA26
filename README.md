@@ -4,7 +4,7 @@ Este repositorio contiene las entregas y trabajos prácticos realizados en el ma
 
 ## Integrantes
 - Juan Bonilla
-- Aaron
+- Aroon Vargas Villa
 
 ## Contenido
 
